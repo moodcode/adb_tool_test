@@ -1,0 +1,43 @@
+Name:	uang.dtszj.sy37
+State:	S (sleeping)
+Tgid:	12162
+Pid:	12162
+PPid:	1932
+TracerPid:	0
+Uid:	10230	10230	10230	10230
+Gid:	10230	10230	10230	10230
+Ngid:	0
+FDSize:	256
+Groups:	3001 3002 3003 9997 50230 
+VmPeak:	 2062152 kB
+VmSize:	 1995968 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  567092 kB
+VmRSS:	  499868 kB
+VmData:	  570940 kB
+VmStk:	    8192 kB
+VmExe:	      56 kB
+VmLib:	  211000 kB
+VmPTE:	    2504 kB
+VmPMD:	      16 kB
+VmSwap:	   13080 kB
+Threads:	54
+SigQ:	6/20195
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000001204
+SigIgn:	0000000000000000
+SigCgt:	2000000200009cf8
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000000000000000
+CapAmb:	0000000000000000
+Seccomp:	0
+Cpus_allowed:	ff
+Cpus_allowed_list:	0-7
+Mems_allowed:	1
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	36061
+nonvoluntary_ctxt_switches:	1257
